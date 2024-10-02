@@ -5,8 +5,6 @@ Robotic production system that integrates handling, sorting, packaging, and pall
 
 [Support material](https://sites.google.com/view/clujrobotics/courses/robotization-manufacturing-ii-rf_ii/project-how-to-design-an-industrial-robotic-system)
 
----
-
 # To Do
 
 ### Week 1-3:
