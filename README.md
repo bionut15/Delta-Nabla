@@ -1,6 +1,5 @@
 # Delta-Nabla
 
----
 
 Robotic production system that integrates handling, sorting, packaging, and palletizing activities for a given set of products, applying principles of robotics, mechanical engineering, and automation to a real-world scenario.
 
