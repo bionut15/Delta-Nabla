@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   fill="none"
+   version="1.1"
+   id="svg68"
+   sodipodi:docname="Logo_jmeker.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview70"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="190.91883"
+     inkscape:cy="475.88286"
+     inkscape:window-width="2560"
+     inkscape:window-height="1396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg68" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15126;stroke-opacity:1"
+     id="rect27519"
+     x="0"
+     y="0"
+     height="1024"
+     width="1024" />
+  <rect
+     width="1024"
+     height="1024"
+     fill="#ffffff"
+     id="rect53"
+     x="0"
+     y="0"
+     clip-path="url(#clipPath13936)"
+     style="fill:#b8b8b8;fill-opacity:1" />
+  <rect
+     width="1036"
+     height="1024"
+     fill="#000000"
+     id="rect55"
+     x="0"
+     y="0"
+     clip-path="url(#clipPath983)"
+     style="fill:none;fill-opacity:1" />
+  <path
+     style="fill:#676767;fill-opacity:1;stroke:none;stroke-width:1.34791px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M -117.9097,-190.50436 H 1131.8325 L 532.33484,897.59608 Z"
+     id="path230-3"
+     clip-path="url(#clipPath13996)" />
+  <defs
+     id="defs66">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7148">
+      <stop
+         style="stop-color:#676767;stop-opacity:1;"
+         offset="0"
+         id="stop7144" />
+      <stop
+         style="stop-color:#676767;stop-opacity:0;"
+         offset="1"
+         id="stop7146" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath971">
+      <g
+         id="g975">
+        <rect
+           width="1024"
+           height="1024"
+           fill="#ffffff"
+           id="rect973"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath977">
+      <g
+         id="g981">
+        <rect
+           width="1024"
+           height="1024"
+           fill="#ffffff"
+           id="rect979"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath983">
+      <g
+         id="g987">
+        <rect
+           width="1024"
+           height="1024"
+           fill="#ffffff"
+           id="rect985"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath989">
+      <g
+         id="g993">
+        <rect
+           width="1024"
+           height="1024"
+           fill="#ffffff"
+           id="rect991"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6384">
+      <g
+         inkscape:label="Clip"
+         id="use6386"
+         style="fill:url(#linearGradient7228);fill-opacity:1">
+        <rect
+           style="opacity:0.922667;fill:url(#linearGradient7226);fill-opacity:1;stroke:none;stroke-width:1.04528;stroke-opacity:1"
+           id="rect7222"
+           width="1084.8"
+           height="1092.7999"
+           x="-35.600037"
+           y="-54.799988" />
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7148"
+       id="linearGradient7226"
+       gradientUnits="userSpaceOnUse"
+       x1="-35.600037"
+       y1="491.59998"
+       x2="1049.2"
+       y2="491.59998" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7148"
+       id="linearGradient7228"
+       gradientUnits="userSpaceOnUse"
+       x1="-35.600037"
+       y1="491.59998"
+       x2="1049.2"
+       y2="491.59998" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13936">
+      <path
+         style="fill:#adadad;fill-opacity:1;stroke:none;stroke-width:1.38719px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -206.34033,-113.96587 H 1211.9532 L 531.60204,901.51353 Z"
+         id="path13938" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13996">
+      <rect
+         style="opacity:1;fill:#bababa;fill-opacity:1;stroke:none;stroke-width:0.949071;stroke-opacity:1"
+         id="rect13998"
+         width="1024"
+         height="1024"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <rect
+     style="opacity:1;fill:#676767;fill-opacity:0;stroke:none;stroke-width:3.54493;stroke-opacity:1"
+     id="rect11689"
+     width="1024"
+     height="1024"
+     x="0"
+     y="0" />
+  <path
+     style="color:#000000;fill:#fefefe;-inkscape-stroke:none"
+     d="M 435.86719,345 446.25781,363 616,657 796.13281,345 Z m 41.56836,24 h 277.1289 L 616,609 Z"
+     id="path59" />
+  <path
+     style="color:#000000;fill:#1a1a1a;-inkscape-stroke:none"
+     d="M 408,366 227.86719,678 h 20.7832 339.48242 z m 0,48 138.56445,240 h -277.1289 z"
+     id="path57" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-opacity:1"
+     id="rect27573"
+     width="64.488106"
+     height="238.71931"
+     x="109.46017"
+     y="525.52173" />
+</svg>
