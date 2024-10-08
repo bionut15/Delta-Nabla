@@ -11,8 +11,9 @@
 ### Week 1-3:
 
 - [x] Choose Name of the team (Delta-Nabla)
-- [ ] Choose a logo (see folder Logo/Logo_Delta-Nabla.png)
+- [x] Choose a logo (see folder Logo/Logo_Delta-Nabla.png)
 - [ ] Presentation with markdown about equipments (10-15 slides)
 - [ ] Design Product parts (model and data characteristics)
 - [ ] Sketch of the lines
+- [x] Draw the flowchart with the equipments
 - [ ] Choose a platform for simulation

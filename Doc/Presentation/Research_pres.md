@@ -1,21 +1,69 @@
 ---
-theme: gaia
-class:
-  - lead
-  - invert
+theme: base;
+paginate: true
 ---
+
+<style>
+section {
+  background: #282C34;
+  font-family: GeistMono;
+  color: #ABB2BF;
+  padding: 0;
+  padding-right: 0;
+  padding-left: 85px;
+}
+section#1{
+  padding:0;
+  padding-right: 0;
+}
+h1{
+    color: white;
+    font-weight: bold;
+}
+h2{
+    color: #b5bfd1; 
+}
+img{
+  border: 1px solid #ddd;
+}
+</style>
+
+![bg right:33% 80%](../../Logo/Logo_Delta-Nabla.png)
 
 # Industrial robotic systems used for handling, sorting, packaging, and palletizing
 
 ## By Team Delta Nabla
 
-- Gr. 1543/1
+Gr. 1543e/1
+
 - Beno Tamás
 - Barbor Ionut Catalin
 - Lazar Mihai
 
 ---
 
-[![bg 80%](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmLya2NuY4Yk%26pp%3DygUOc29ydGluZyBkZXZpY2U%253D)](https://www.youtube.com/watch?v=mLya2NuY4Yk&pp=ygUOc29ydGluZyBkZXZpY2U%3D)
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
