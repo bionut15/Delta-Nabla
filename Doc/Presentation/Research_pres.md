@@ -42,27 +42,47 @@ Gr. 1543e/1
 
 ---
 
+# Feeding machines
+
+## For chess pieces
+
+## For chess board or chess box
+
 ---
+
+# Conveyors
+
+---
+
+# Robots
+
+---
+
+# Sorting machines
 
 ---
 
 ---
 
----
+# Assembly machines
 
 ---
 
 ---
 
----
+# Box folding machine
 
 ---
 
 ---
 
+# Paletizing machine
+
 ---
 
 ---
+
+# Sinkwrapping machine
 
 ---
 
