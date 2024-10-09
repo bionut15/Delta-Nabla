@@ -87,11 +87,11 @@ Gr. 1543e/1
 
 ![bg right:60% 95%](assets_press/Sorting_machine.png)
 
----
+--- Thumbnail image for a document.
 
 # Box folding machine
 
-![bg right:60% 90%](assets_press/Box_folding_machine.png)
+![bg right:60% 90%](assets_press/Box_folding_machine2.png)
 
 ---
 
