@@ -1,2 +1,2 @@
 #! /bin/bash
-marp Research_press.md
+ls *.md | marp Research_press.md 

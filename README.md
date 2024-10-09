@@ -12,7 +12,7 @@
 
 - [x] Choose Name of the team (Delta-Nabla)
 - [x] Choose a logo (see folder Logo/Logo_Delta-Nabla.png)
-- [ ] Presentation with markdown about equipments (10-15 slides)
+- [x] Presentation with markdown about equipments (10-15 slides)(see Doc/Pressentation/Research.md)
 - [ ] Design Product parts (model and data characteristics)
 - [ ] Sketch of the lines
 - [x] Draw the flowchart with the equipments

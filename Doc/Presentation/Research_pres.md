@@ -36,9 +36,9 @@ img{
 
 Gr. 1543e/1
 
-- Beno Tamás
-- Barbor Ionut Catalin
-- Lazar Mihai
+- Benő Tamás
+- Barbor Ionut Cătălin
+- Lazăr Mihai
 
 ---
 
@@ -63,7 +63,7 @@ Gr. 1543e/1
 ## For both chess pices and packages
 
 ![bg vertical right:60% 65% ](assets_press/Conveyor_ex.png)
-![bg right:60% 65%](assets_press/Conveyor_ex2.png)
+![bg right:60% 65%](assets_press/Conveyor_ex3.png)
 
 ---
 
