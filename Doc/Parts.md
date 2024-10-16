@@ -50,7 +50,7 @@ Material : Polyethylene
 
 ## Board:
 
-Material: Birch Wood
+Material: Birch Wood mixed with brass frame
 
 - Opened:
 
@@ -67,7 +67,7 @@ Material: Birch Wood
 
 ### Parts:
 
-Material: Ebony wood
+Material: Ebony wood, metal base(Stainless Steel for white and for black Brass )
 
 - Bishop:
   - Mass: 0.016 kg

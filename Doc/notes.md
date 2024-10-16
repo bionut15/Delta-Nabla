@@ -8,3 +8,5 @@
 - Pandoc with beamer
 
 # week 3
+
+flexfactor - alimentatoare
