@@ -18,9 +18,9 @@ The objective of the project is a low cost on the solution.
 - [x] Presentation with markdown about equipments (10-15 slides)(see Doc/Pressentation/Research.md)
 - [x] Make Paper on the objectives for the project (see Doc/Delta-Nabla_Goal.md)
 - [x] Design Product parts (model and data characteristics)
-- [ ] Sketch of the lines
 - [x] Choose a platform for simulation (Blender)
 
 ### Week 3-6:
 
 - [?] Draw the flowchart with the equipments (Scrap, alimentare)
+- [ ] Sketch of the lines
