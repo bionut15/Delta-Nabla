@@ -9,13 +9,13 @@ Material: Plastic
   - Width: 500 mm
   - Height: 40 mm
   - Length: 500 mm
-  - Mass: kg
+  - Mass: 1.2kg
 
 - Closed:
   - Width: 250 mm
   - Height: 80 mm
   - Length: 500 mm
-  - Mass: kg
+  - Mass: 1.2kg
 
 ### Parts:
 
@@ -46,7 +46,7 @@ Material : Polyethylene
   - Height: 58 mm
   - Diameter: 28 mm
 
-# Premium Chess set
+# Fancy Chess set
 
 ## Board:
 
@@ -57,13 +57,13 @@ Material: Birch Wood mixed with brass frame
   - Width: 500 mm
   - Height: 40 mm
   - Length: 500 mm
-  - Mass: kg
+  - Mass: 1.86 kg
 
 - Closed:
   - Width: 250 mm
   - Height: 80 mm
   - Length: 500 mm
-  - Mass: kg
+  - Mass: 1.86 kg
 
 ### Parts:
 
