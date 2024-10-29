@@ -10,3 +10,6 @@
 # week 3
 
 flexfactor - alimentatoare
+
+Cobot: 6 Dof
+Conveyors
