@@ -24,5 +24,7 @@ The objective of the project is a low cost on the solution.
 ### Week 3-6:
 
 - [x] Draw the flowchart with the equipments (more specific parts and machines)
-- [ ] Choose the equipments and conveyors
+- [x] Choose the equipments and conveyors
 - [ ] Sketch the layout of the lines
+
+### Week 7-10:

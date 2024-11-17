@@ -46,7 +46,7 @@ Material : Polyethylene
   - Height: 58 mm
   - Diameter: 28 mm
 
-# Fancy Chess set
+# Premium Chess set
 
 ## Board:
 
@@ -93,3 +93,17 @@ Material: Ebony wood, metal base(Stainless Steel for white and for black Brass )
   - Mass: 0.019 kg
   - Height: 63.5 mm
   - Diameter: 33 mm
+
+# Box sizing
+
+252x502x82
+
+# Big Box sizing
+
+- 10 boxes
+
+- 52x52x52
+
+# Pallet
+
+1500x1100x2000 mm
